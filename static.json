@@ -1,9 +1,9 @@
 {
-  "encoding": "UTF-8",
-  "headers": {
-    "/*": {
-      "X-Author": "Волосатова, Екатерина Юрьевна",
-      "Access-Control-Allow-Origin": "*"
+  "encoding":"UTF-8",
+  "headers":{
+    "/*":{
+      "X-Author":"Волосатова, Екатерина Юрьевна",
+      "Access-Control-Allow-Origin":"*"
     }
-  }
+  } 
 }
