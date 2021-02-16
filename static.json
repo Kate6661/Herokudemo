@@ -1,8 +1,8 @@
 {
   "headers":{
     "/*":{
-      "X-Author":"Волосатова,Екатерина Юрьевна",
-      "Access-Control-Allow-Origin":"190894"
+      "X-Author":"190894",
+      "Access-Control-Allow-Origin":"*"
     }
   } 
 }
